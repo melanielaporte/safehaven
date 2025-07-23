@@ -1,3 +1,6 @@
+<img width="150" height="150" alt="Ivory Silver Clean Grid Wedding Photo Collage Instagram Post (1)" src="https://github.com/user-attachments/assets/6802e512-5ecc-45ce-9320-545a0d7501ae" />
+
+
 # Safe Haven: Survival Packs + Solar Charger for Homeless Women  
 **A dignity-preserving pack with hygiene essentials, safety tools, and a custom solar charger—designed *with* unhoused women.**  
 
