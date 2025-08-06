@@ -23,7 +23,9 @@ Homeless women face:
 3. **Community-driven**: Packs are co-designed with homeless women in Tulsa and NYC.  
 
 ### Pilot Partners (Targeting)  
-- **NYC**: [Women in Need (Win)](https://www.winnyc.org)  
+- **NYC**
+  - [Women in Need (Win)](https://www.winnyc.org)
+  - [Sun River Heath](https://www.sunriver.org/) 
 - **Tulsa**: [City Lights Foundation](https://www.citylightstulsa.org)  
 *(Partnerships in progress—funding accelerates pilot talks!)*  
 
