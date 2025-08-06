@@ -37,7 +37,7 @@ Homeless women face:
 
 ---
 
-### Get Involved  
+### Work With Me  
 📬 **Contact**: [Fill out this form](https://docs.google.com/forms/d/1LM7rc1nHqn-ybAbg4BW9wC9X--DqfR5mVQ_UXCVOfLU)
 
 *"This isn’t just a pack—it’s power, safety, and dignity. Funders, let’s build this together."*  
