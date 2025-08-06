@@ -6,16 +6,16 @@
 
 ### The Problem  
 Homeless women face:  
-- **No hygiene access**: Period products, wipes, and soap are scarce.  
-- **Safety risks**: Isolation + dead phone batteries = danger.  
-- **No power**: Phones die, cutting access to shelters, jobs, and families.  
+- **No hygiene access**: Period products, wipes, and soap are scarce
+- **Safety risks**: Isolation + dead phone batteries = danger
+- **No power**: Phones die, cutting access to shelters, jobs, and families
 
 ### The Solution  
 **Safe Haven Packs include:**  
-- **Custom solar charger** (low-cost, durable, designed by me—*needs funding for prototyping*)  
+- **Custom solar charger** (low-cost, durable, designed by me *needs funding for prototyping*)  
 - Hygiene kit (tampons, wipes, soap)  
 - Safety items (whistle, emergency resources)  
-- *Future*: NFC-linked local resource guide  
+- *Future*: NFC linked to local resource guide  
 
 ### **Why Fund *Me*?**  
 1. **I’m building the tech**: The solar charger isn’t off-the-shelf—I’m designing it for extreme durability and low cost.  
