@@ -2,7 +2,7 @@
 
 
 # Safe Haven: Survival Packs + Solar Charger for Homeless Women  
-**A dignity-preserving pack with hygiene essentials, safety tools, and a custom solar charger—designed *with* unhoused women.**  
+**A dignity-preserving pack with hygiene essentials, safety tools, and a custom solar charger - designed *with* unhoused women.**  
 
 ### The Problem  
 Homeless women face:  
