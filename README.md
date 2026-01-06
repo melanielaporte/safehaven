@@ -15,7 +15,7 @@ Homeless women face:
 - **Custom solar charger** (low-cost, durable, designed by me *needs funding for prototyping*)  
 - Hygiene kit (tampons, underwear, bras, socks, wipes, soap)  
 - Safety items (whistle, emergency resources)  
-- *Future*: NFC linked to local resource guide  
+- *Future*: NFC linked to local resource guide and a potential clean water solution
 
 ### **Why Fund *Me*?**  
 1. **I’m building the tech**: The solar charger isn’t off-the-shelf, I’m designing it for extreme durability and low cost.  
