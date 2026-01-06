@@ -18,7 +18,7 @@ Homeless women face:
 - *Future*: NFC linked to local resource guide  
 
 ### **Why Fund *Me*?**  
-1. **I’m building the tech**: The solar charger isn’t off-the-shelf—I’m designing it for extreme durability and low cost.  
+1. **I’m building the tech**: The solar charger isn’t off-the-shelf, I’m designing it for extreme durability and low cost.  
 2. **Proven track record**: See my open-source hardware work on [Moonrat](https://github.com/PubInv/moonrat) (portable incubator for water testing). 
 3. **Community-driven**: Packs are co-designed with homeless women in Tulsa, Oklahoma and New York City. 
 
