@@ -2,7 +2,7 @@
 
 
 # Safe Haven: Survival Packs + Solar Charger for Homeless Women  
-**A dignity-preserving pack with hygiene essentials, safety tools, and a custom solar charger - designed *with* unhoused women.**  
+**A dignity-preserving kit with hygiene essentials, safety tools, and a custom solar charger - designed with unhoused women.**  
 
 ### The Problem  
 Homeless women face:  
@@ -13,7 +13,7 @@ Homeless women face:
 ### The Solution  
 **Safe Haven Packs include:**  
 - **Custom solar charger** (low-cost, durable, designed by me *needs funding for prototyping*)  
-- Hygiene kit (tampons, wipes, soap)  
+- Hygiene kit (tampons, underwear, bras, socks, wipes, soap)  
 - Safety items (whistle, emergency resources)  
 - *Future*: NFC linked to local resource guide  
 
@@ -27,7 +27,7 @@ Homeless women face:
   - [Women in Need (Win)](https://www.winnyc.org)
   - [Sun River Heath](https://www.sunriver.org/) 
 - **Tulsa**: [City Lights Foundation](https://www.citylightstulsa.org)  
-*(Partnerships in progress—funding accelerates pilot talks!)*  
+*(Partnerships in progress,funding will accelerate prototype talks!)*  
 
 ### Funding Needs  
 **Goal: $25,000** for:  
