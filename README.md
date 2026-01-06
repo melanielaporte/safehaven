@@ -27,7 +27,7 @@ Homeless women face:
   - [Women in Need (Win)](https://www.winnyc.org)
   - [Sun River Heath](https://www.sunriver.org/) 
 - **Tulsa**: [City Lights Foundation](https://www.citylightstulsa.org)  
-*(Partnerships in progress,funding will accelerate prototype talks!)*  
+*(Partnerships in progress, funding will accelerate prototype talks!)*  
 
 ### Funding Needs  
 **Goal: $25,000** for:  
